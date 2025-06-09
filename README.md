@@ -42,7 +42,7 @@ Bagi saya, ngoding itu bukan cuma soal bikin aplikasi — tapi tentang gimana ca
 
 ### 🧠 Quotes
 
-> _"Gue bukan orang jenius, tapi gue orang yang niat belajar.  
+> _"Saya bukan orang jenius, tapi saya adalah orang yang niat belajar.  
 > Pelan-pelan, semua akan sampai juga."_  
 
 ---
