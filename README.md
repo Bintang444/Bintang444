@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Bintang 👋</h1>
+<p align="center">Student | Learner | Future Developer</p>
 
-<!--
-**Bintang444/Bintang444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌱 Masih belajar, masih jatuh-bangun, tapi nggak pernah berhenti.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya adalah siswa SMK yang lagi meniti jalan di dunia teknologi.  
+Mulai dari backend, frontend, mobile apps, sampai sekarang mulai tertarik ke AI dan automation.
+
+Bagi saya, ngoding itu bukan cuma soal bikin aplikasi — tapi tentang gimana caranya harus bangun sesuatu dari nol, gagal, belajar lagi, dan terus berkembang.
+
+---
+
+### 🛠️ Tech Stack
+
+- 🎨 Frontend: HTML, CSS, JavaScript  
+- 📦 Backend: Python, Django, PHP, Flask  
+- 📱 Mobile Development: React Native  
+- 🛢️ Database: MySQL, SQLite  
+- 🧰 Tools: Git, GitHub, VS Code, Postman
+
+---
+
+### ✨ Beberapa Proyek Kecil
+
+- 🏨 **Aplikasi Booking Hotel** — Django, CRUD + sistem booking
+- 🎂 **Age Calculator + Info Teknologi Tahun Lahir** — Flask + AI (Groq)
+- 🤖 **Eksperimen AI & Prompt Engineering** — Buat bantu kerjaan kecil dan eksperimen pribadi
+- 🔧 Masih banyak ide lain yang belum diwujudkan... coming soon!
+
+---
+
+### 🔥 Fokus & Minat
+
+- AI dan dunia Machine Learning  
+- UI/UX simpel tapi impactful  
+- Web Dev (kadang love-hate relationship 😅)  
+- Personal growth dan mindset upgrade
+
+---
+
+### 🧠 Quotes
+
+> _"Gue bukan orang jenius, tapi gue orang yang niat belajar.  
+> Pelan-pelan, semua akan sampai juga."_  
+
+---
+
+### 📫 Kontak (Boleh kenalan, ngobrol, atau kolaborasi)
+
+- 🌐 Instagram: [@tbintanh](https://instagram.com/tbintanh)
+- 📧 Email: perkasabintang232@gmail.com
+
+---
+
+<p align="center"><i>Masih jauh dari kata jago, tapi tiap hari selangkah lebih dekat.</i></p>
