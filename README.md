@@ -1,26 +1,29 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Bintang+%F0%9F%91%8B;Curious+by+nature%2C+builder+by+choice;Breaking+things+to+understand+them" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Bintang+%F0%9F%91%8B;Student+%26+Aspiring+Developer;AI+%26+Web+Enthusiast;Building+%26+Learning+Every+Day" alt="Typing SVG" />
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="380"/>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
+> *A vocational student who started coding out of pure curiosity —*
+> *and never really stopped. Currently exploring the full stack,*
+> *experimenting with AI, and turning random ideas into working projects.*
+> *Still figuring things out, but that's kind of the point.*
 
 ---
 
 ### 🛠️ Tech Stack
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="40"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="40"/>
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4428-8146-4e8a5d2b4afa.gif" width="40"/>
-<img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="40"/>
-<img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="40"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="38"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="38"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="38"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="38"/>
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4428-8146-4e8a5d2b4afa.gif" width="38"/>
+<img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="38"/>
+<img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="38"/>
 
 <br/><br/>
 
@@ -52,12 +55,6 @@
 
 ---
 
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Bintang444&theme=darkhub&no-frame=true&row=1&column=7" width="100%"/>
-
----
-
 ### 📫 Let's Connect
 
 [![Instagram](https://img.shields.io/badge/@tbintanh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tbintanh)
@@ -65,10 +62,10 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=Bintang444&color=58A6FF&style=flat-square" />
 
-*"Code. Break. Fix. Repeat."*
+*"Curious enough to start. Stubborn enough to finish."*
 
 </div>
