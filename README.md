@@ -5,7 +5,7 @@
 ## 🌟 Aspiring AI Engineer & Fresh Graduate
 
 I'm a **software engineering graduate** based in 🇮🇩 Bandung Barat, Indonesia.
-I build web apps, Android apps, and IoT systems — and currently diving deep into **Python and machine learning**.
+I build web apps, Android apps, and IoT systems — and currently diving deep into **Python Artificial Intelligence and Machine Learning**.
 I learn by doing: see something interesting, try to build it, fail, come back harder.
 
 > _"Curious enough to start. Stubborn enough to finish."_
