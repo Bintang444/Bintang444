@@ -36,7 +36,7 @@ Real-time slot tracking, vehicle entry/exit logging, and a data dashboard — wi
 
 ## 🌐 Find Me
 
-- 💼 LinkedIn: [bintang-eka-wardhana-syarifudin](https://linkedin.com/in/bintang-eka-wardhana-syarifudin-454b062a9)
+- 💼 LinkedIn: [bintang-eka-wardhana-syarifudin](https://linkedin.com/in/bintangekaws)
 - 📸 Instagram: [@tbintanh](https://instagram.com/tbintanh)
 - 📧 Email: [bintangekawardhanasyarifudin@gmail.com](mailto:bintangekawardhanasyarifudin@gmail.com)
 
